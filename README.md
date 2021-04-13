@@ -7,7 +7,7 @@
 - second 
   - Second last 
 
-Head|Tale
--True|False-
+Head | Tale
+-|-
    3|4
    5|6
